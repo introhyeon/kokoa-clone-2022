@@ -33,6 +33,7 @@
 
 .more-suggestions__icons {
   display: flex;
+  position: relative;
 }
 
 .more-suggestions__icon {
@@ -62,4 +63,10 @@
   width: 60px;
   height: 60px;
   border-radius: 10px;
+}
+
+.screen-headerf-more__dot {
+  position: absolute;
+  right: -5px;
+  bottom: 15px;
 }

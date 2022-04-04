@@ -99,3 +99,9 @@
 .open-post__heart-count span {
   margin-left: 3px;
 }
+
+.screen-header-find__dot {
+  position: absolute;
+  right: -5px;
+  bottom: 15px;
+}
