@@ -1,7 +1,4 @@
 .screen-header {
-  /* status-bar를 고정하기위해 fixed를 사용하게되면서 겹침현상발생으로 이를 해결하기 위해 추가*/
-  margin-top: 25px;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
